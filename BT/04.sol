@@ -30,3 +30,4 @@ contract Student_management{
 		Students.push(Student(7, "XYZ", "Mechanical"));
 	}
 }
+//examples are taken randomly
